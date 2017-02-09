@@ -1,5 +1,3 @@
-docker==2.0.2
-docker-pycreds==0.2.1
 Flask==0.11.1
 requests==2.12.5
 stdeb==0.8.5
